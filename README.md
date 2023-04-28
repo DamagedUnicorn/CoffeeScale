@@ -4,8 +4,8 @@ Scale with two load cell connected to a single arduino with display and buttons.
 
 | Part                       | Quantify |
 | :------------------------- | -------: |
-| Arduino(Nano?)             |        1 |
+| Arduino (Nano?)            |        1 |
 | Push Button                |        2 |
-| Display(LCD/TFT)           |        1 |
+| Display (LCD/TFT)          |        1 |
 | Load Cell (1kg)            |        2 |
 | HX711 lLoad Cell Amplifier |        2 |
